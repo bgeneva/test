@@ -3,3 +3,8 @@ Open with Tortoise
 
 Change here..
 Add new line ..
+
+Open with Bash
+Open with Tortoise
+
+
